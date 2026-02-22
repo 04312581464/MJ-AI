@@ -3,7 +3,6 @@
 -**Creator:** Lalit Manjunatha  
 -**Version:** 2.0 with JARVIS Intelligence  
 -**Platform:** Windows, macOS, Linux
-
 ---
 
 ## 🌟 Overview
