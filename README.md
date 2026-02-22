@@ -1,14 +1,14 @@
 # 🤖 MJ AI - Advanced Intelligent Assistant
 
-**Creator:** Lalit Manjunatha  
-**Version:** 2.0 with JARVIS Intelligence  
-**Platform:** Windows, macOS, Linux
+-**Creator:** Lalit Manjunatha  
+-**Version:** 2.0 with JARVIS Intelligence  
+-**Platform:** Windows, macOS, Linux
 
 ---
 
 ## 🌟 Overview
 
-MJ AI is an advanced intelligent assistant with integrated JARVIS-style capabilities, featuring 9 types of intelligence, emotional awareness, and comprehensive system control. Built with cutting-edge AI technology and extensive tool integration for seamless automation and assistance.
+-MJ AI is an advanced intelligent assistant with integrated JARVIS-style capabilities, featuring 9 types of intelligence, emotional awareness, and comprehensive system control. Built with cutting-edge AI technology and extensive tool integration for seamless automation and assistance.
 
 ---
 
@@ -543,6 +543,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **© 2026 MJ AI. All rights reserved.**
-#   M J - A I  
- #   M J - A I  
+#   M J - A I 
+ 
+ #   M J - A I 
+ 
  
